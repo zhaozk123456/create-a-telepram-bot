@@ -1,9 +1,7 @@
 # create-a-telepram-bot
-1--安装py环境 ------------官网 www.python.com
+1--安装py环境 ------------官网 www.python.org
 2以下步骤省略一万步..........  ∑(っ°Д°;)っ卧槽，不见了
-
-
-源码框架：
+以下为源码框架：
 import telebot
 
 （标签键） Replace 'YOUR_BOT_TOKEN' with your actual bot token
